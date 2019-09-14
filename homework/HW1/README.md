@@ -9,4 +9,6 @@ Implement and train a neural network from scratch in Python for the MNIST datase
 - Accuracy - 98.11%
 - Run time - 22 minutes
 
-![IAccuracy_Curve](images/Accuracy.png)
+![Summary](images/Model_Summary.png | width=150)
+![IAccuracy_Curve](images/Accuracy.png | width=150)
+![Loss_Curve](images/Loss.png | width=150)
