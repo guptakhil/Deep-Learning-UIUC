@@ -12,6 +12,7 @@ Implement and train a neural network from scratch in Python for the MNIST datase
 ### Execution
 Use Python3 for running the code file.
 
+### Results
 ![Summary](images/Model_Summary.png)
 ![IAccuracy_Curve](images/Accuracy.png)
 ![Loss_Curve](images/Loss.png)
