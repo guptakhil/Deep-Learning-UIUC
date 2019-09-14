@@ -1,4 +1,4 @@
-# CS-547-IE-534-Deep-Learning-UIUC
+# CS - 547 | IE - 534 | Fall 2019
 Contains solutions to the homework assignments for <a href="https://courses.engr.illinois.edu/ie534/fa2019/">Deep Learning course</a> @ UIUC.
 <br>
 ## Homework Problems
