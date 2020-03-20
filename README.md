@@ -1,6 +1,7 @@
 # [IE-534 / CS-547 Deep Learning](https://courses.engr.illinois.edu/ie534/fa2019/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![HitCount](http://hits.dwyl.com/guptakhil12/Deep-Learning-UIUC.svg)](http://hits.dwyl.com/guptakhil12/Deep-Learning-UIUC)
 
 ## Table of Contents:
 
