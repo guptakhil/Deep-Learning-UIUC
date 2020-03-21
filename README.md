@@ -51,7 +51,7 @@ CS 446 (or equivalent). Python. Basic statistics, probability, and optimization.
 
 - Justin Sirignano, Website [[Link]](https://jasirign.github.io/)
 
-TA's:
+TAs:
 * Yuanyi Zhong
 * Xiaobo Dong
 * Lei Fan
@@ -71,3 +71,10 @@ All copyrights reserved © IE534 Instructors & TAs
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 7</a> : Generative Adversarial Networks (GANs).
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 8</a> : Deep reinforcement learning on Atari games.
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 9</a> : Video Recognition I.
+
+## Additional Resources
+
+* <a href="https://github.com/guptakhil12/Deep-Learning-UIUC/blob/master/Resources/Bluewater_Notes.pdf">Bluewater Notes</a> : Notes for using the GPU on Bluewaters.
+* <a href="https://github.com/guptakhil12/Deep-Learning-UIUC/blob/master/Resources/Course_Notes_W1_W2.pdf">Course Notes</a> : Instructor's detailed notes for Weeks 1 & 2.
+* <a href="https://github.com/guptakhil12/Deep-Learning-UIUC/blob/master/Resources/IE534%20Exam.docx">IE534 Exam</a> : Questions prepared for the exam by AG.
+* <a href="https://github.com/guptakhil12/Deep-Learning-UIUC/blob/master/Resources/Pytorch_Tutorial.pdf">PyTorch Tutorial</a> : Basic tutorial for getting started on PyTorch.
