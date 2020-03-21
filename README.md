@@ -10,6 +10,8 @@
 * [Grading](#grading)
 * [Instructors](#instructors)
 * [Homeworks](#homeworks)
+* [Project Details](#project-details)
+* [Additional Resources](#additional-resources)
 
 ## Course Information:
 
@@ -71,6 +73,12 @@ All copyrights reserved © IE534 Instructors & TAs
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 7</a> : Generative Adversarial Networks (GANs).
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 8</a> : Deep reinforcement learning on Atari games.
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 9</a> : Video Recognition I.
+
+## Project Details
+
+Choose a research paper from the given [[list]](https://courses.engr.illinois.edu/ie534/fa2019/FinalProjectsCS547.pdf) and implement it with substantial contribution. To be done in a group of 4-6 members.
+
+Report available [[here]](https://github.com/guptakhil12/show-tell/blob/master/Report/Final_Report.pdf) for Show and Tell paper.
 
 ## Additional Resources
 
