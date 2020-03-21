@@ -8,7 +8,7 @@
 * [Course Information](#course-information)
 * [Pre-requisites](#pre-requisites)
 * [Grading](#grading)
-* [Instructors & TA's](#instructors-&-ta's)
+* [Instructors](#instructors)
 * [Homeworks](#homeworks)
 
 ## Course Information:
@@ -47,10 +47,11 @@ CS 446 (or equivalent). Python. Basic statistics, probability, and optimization.
 - 35% Midterm
 - 30% Final Project
 
-## Instructors & TA's
+## Instructors
 
 - Justin Sirignano, Website [[Link]](https://jasirign.github.io/)
 
+TA's:
 * Yuanyi Zhong
 * Xiaobo Dong
 * Lei Fan
