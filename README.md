@@ -16,8 +16,7 @@
 ## Course Information:
 
 ### Overview:
-This course is an introduction to deep learning. Topics include convolution neural networks, recurrent neural networks, and deep reinforcement learning. <br>Homeworks on image classification, video recognition, and deep reinforcement learning. <br>Training of deep learning models using PyTorch. <br>A large amount of GPU resources are provided to the class.
-<br>Mathematical analysis of neural networks, reinforcement learning, and stochastic gradient descent algorithms will also be covered in lectures.
+This course is an introduction to Deep Learning. Topics include convolution neural networks, recurrent neural networks, and deep reinforcement learning. Homeworks on image classification, video recognition, and deep reinforcement learning. Training of deep learning models using PyTorch. A large amount of GPU resources are provided to the class. Mathematical analysis of neural networks, reinforcement learning, and stochastic gradient descent algorithms will also be covered in lectures.
 
 ### Topics:
 - Fully-connected and feedforward networks
@@ -51,15 +50,15 @@ CS 446 (or equivalent). Python. Basic statistics, probability, and optimization.
 
 ## Instructors
 
-- Justin Sirignano, Website [[Link]](https://jasirign.github.io/)
+- [Justin Sirignano](https://jasirign.github.io/)
 
 TAs:
-* Yuanyi Zhong
-* Xiaobo Dong
-* Lei Fan
-* Rachneet Kaur
-* Jyoti Aneja
-* Peijun Xiao 
+* [Yuanyi Zhong](https://www.linkedin.com/in/yuanyi-zhong-08571b103)
+* [Xiaobo Dong](https://www.linkedin.com/in/xiaobo-dong-2410b494)
+* [Lei Fan](https://www.linkedin.com/in/lei-fan-a52b6737)
+* [Rachneet Kaur](http://rk4.web.engr.illinois.edu/)
+* [Jyoti Aneja](http://jyotianeja.com/)
+* [Peijun Xiao](https://ise.illinois.edu/directory/profile/peijunx2)
 
 All copyrights reserved © IE534 Instructors & TAs
 
@@ -76,9 +75,9 @@ All copyrights reserved © IE534 Instructors & TAs
 
 ## Project Details
 
-Choose a research paper from the given [[list]](https://courses.engr.illinois.edu/ie534/fa2019/FinalProjectsCS547.pdf) and implement it with substantial contribution. To be done in a group of 4-6 members.
+Choose a research paper from the given [list](https://courses.engr.illinois.edu/ie534/fa2019/FinalProjectsCS547.pdf) and implement it with substantial contribution.<br>To be done in a group of 4-6 members.
 
-Report available [[here]](https://github.com/guptakhil12/show-tell/blob/master/Report/Final_Report.pdf) for Show and Tell paper.
+Report available [here](https://github.com/guptakhil12/show-tell/blob/master/Report/Final_Report.pdf) for Show and Tell paper.
 
 ## Additional Resources
 
