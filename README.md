@@ -8,7 +8,7 @@
 * [Course Information](#course-information)
 * [Pre-requisites](#pre-requisites)
 * [Grading](#grading)
-* [Instructors](#instructors)
+* [Instructors & TA's](#instructors-&-ta's)
 * [Homeworks](#homeworks)
 
 ## Course Information:
