@@ -63,3 +63,10 @@ All copyrights reserved © IE534 Instructors & TAs
 ## Homeworks
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW1">HW 1</a> : Train a single-layer neural network from scratch in Python using NumPy for MNIST dataset.
 - <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 2</a> : Train a conolutional neural network with multiple channels in Python using NumPy for MNIST dataset.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 3</a> : Train a deep convolution network on a GPU with PyTorch for the CIFAR10 dataset.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 4</a> : Implement a deep residual neural network for CIFAR100.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 5</a> : Natural Language Processing A.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 6</a> : Natural Language Processing B.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 7</a> : Generative Adversarial Networks (GANs).
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 8</a> : Deep reinforcement learning on Atari games.
+- <a href="https://github.com/guptakhil12/CS-547-IE-534-Deep-Learning-UIUC/tree/master/homework/HW2">HW 9</a> : Video Recognition I.
